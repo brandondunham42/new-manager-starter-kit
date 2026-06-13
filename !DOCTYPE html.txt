@@ -128,7 +128,9 @@ Everything you need to succeed during your first 90 days as a manager.
 Stop guessing what to do and start leading with confidence.
 </p>
 
-<a href="#" class="btn">
+<a href="<script 
+  src="https://www.paypal.com/sdk/js?client-id=BAAlL3PCymSiDRS9v4anvBYjYR6oY_XqZk5VAA7qb1eTaJeotELaf-Yw_h_pJ03UdyM40GzVk2Awx_hd4M&components=hosted-buttons&enable-funding=venmo&currency=USD">
+</script>" class="btn">
 Buy Now
 </a>
 
